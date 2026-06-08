@@ -12,9 +12,13 @@ def startSeq():
 
 def viewAll():
     cur.execute("SELECT * FROM books")
-    righe = cur.fetchall()
+    books = cur.fetchall()
 
-    print(righe)
+    for book in books:
+        print(book)
+
+    if books == []:
+        print("There's no book to show!")
 
 def addBook():
     title = input("Title: ")
