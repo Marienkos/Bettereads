@@ -1,10 +1,14 @@
 import sqlite3
 
-class Book:
-    def __init__(self, title, author, date):
-        self.title = title
-        self.author = author
-        self.date = date
+def startSeq():
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS books (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT NOT NULL,
+            author TEXT NOT NULL,
+            date INTEGER NOT NULL
+        )"""
+    )
 
 def viewAll():
     cur.execute("SELECT * FROM books")
@@ -12,37 +16,35 @@ def viewAll():
 
     print(righe)
 
-def askBook():
+def addBook():
     title = input("Title: ")
     author = input("Author: ")
     date = input("Date: ")
-    return Book(title, author, date)
 
-def addBook(book : Book):
     cur.execute("""
         INSERT INTO books (title, author, date)
         VALUES (?, ?, ?)
-    """,
-    (book.title, book.author, book.date)
+    """, (title, author, date)
     )
+
+def deleteBook():
+    id = input("ID: ")
+
+    cur.execute("DELETE FROM books WHERE id=?", id)
 
 conn = sqlite3.connect("books.db")
 cur = conn.cursor()
 
-cur.execute("""
-    CREATE TABLE IF NOT EXISTS books (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title TEXT NOT NULL,
-    author TEXT NOT NULL,
-    date TEXT NOT NULL
-)
-""")
+startSeq()
 
-cmd = input("Specify command (view, add): ")
+while True:
+    cmd = input("Specify command (view, add, delete, exit): ")
 
-match cmd:
-    case "view": viewAll()
-    case "add": addBook(askBook())
+    match cmd:
+        case "view": viewAll()
+        case "add": addBook()
+        case "delete": deleteBook()
+        case "exit": break
 
 conn.commit()
 conn.close()
