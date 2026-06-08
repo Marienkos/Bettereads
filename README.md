@@ -1,1 +1,1 @@
-This is a not-well thought project: trying to get away from a certain platform most people use to catalog books.
+Tired of using a well-known platform to catalog my books, I decided to build my own. It started as a bunch of Markdown files with tables containing the info, but now I'm working on a SQL database (see Bettereads SQL).
