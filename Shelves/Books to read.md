@@ -7,12 +7,12 @@
 | All works                                   | Kurt Vonnegut        |
 | Children of Memory                          | Adrian Tchaikovsky   |
 | Children of Ruin                            | Adrian Tchaikovsky   |
-| Discworld                                   | Terry Pratchett      |
+| Discworld (38 remaining)                    | Terry Pratchett      |
 | Everyone in this Bank is a Thief            | Benjamin Stevenson   |
 | Gente indipendente                          | Halldor Laxness      |
 | Il viaggio in Occidente                     | Wu Cheng'en          |
 | Infinite Jest                               | David Foster Wallace |
-| La Recherche                                | Marcel Proust        |
+| La Recherche (7 remaining)                  | Marcel Proust        |
 | L'ultimo impero                             | Brandon Sanderson    |
 | Red Rising                                  | Pierce Brown         |
 | Treno infernale per l'Angelo rosso          | Franck Thilliez      |
@@ -20,7 +20,6 @@
 
 | Title                                                          | Author           |
 | -------------------------------------------------------------- | ---------------- |
-| I'm OK, you're OK                                              | Thomas Harris    |
 | Storia della musica dall'antichità classica al Novecento       | Claudio Casini   |
 | Categorical Logic and Type Theory                              | Bart Jacobs      |
 | Proofs and Types                                               | Jean-Yves Girard |
