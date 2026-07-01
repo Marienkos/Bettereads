@@ -10,11 +10,14 @@
 | Discworld (38 remaining)                    | Terry Pratchett      |
 | Everyone in this Bank is a Thief            | Benjamin Stevenson   |
 | Gente indipendente                          | Halldor Laxness      |
+| Gone with the Wind                          | Margaret Mitchell    |
 | Il viaggio in Occidente                     | Wu Cheng'en          |
 | Infinite Jest                               | David Foster Wallace |
 | La Recherche (7 remaining)                  | Marcel Proust        |
 | L'ultimo impero                             | Brandon Sanderson    |
 | Red Rising                                  | Pierce Brown         |
+| Sarum                                       | Edward Rutherford    |
+| The Pillars of the Earth                    | Ken Follet           |
 | Treno infernale per l'Angelo rosso          | Franck Thilliez      |
 # Essays
 
