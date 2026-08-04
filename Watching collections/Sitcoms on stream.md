@@ -10,7 +10,6 @@
 | Eastbound & Down                  |
 | Silicon Valley                    |
 | The Righteous Gemstones           |
-| 30 Rock                           |
 | Permanent Roommates               |
 | Stuart fails to save the universe |
 | Boy meets world                   |
