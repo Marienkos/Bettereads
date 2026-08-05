@@ -1,13 +1,18 @@
-# S
+# Epic
 
 | Title                             |
 | --------------------------------- |
 | How I met your mother             |
 | It's Always Sunny In Philadelphia |
-| My name is Earl                   |
-| Parks and Recreation              |
-| Scrubs                            |
 | Seinfeld                          |
+
+# S
+
+| Title                |
+| -------------------- |
+| My name is Earl      |
+| Parks and Recreation |
+| Scrubs               |
 
 # A
 
