@@ -12,13 +12,12 @@
 | My Wife and Kids                  | 4         | 5      |
 | One Piece                         | 2         | On     |
 | Only Murders in the Building      | 4         | 5      |
-| President Curtis                  | 1         | On     |
 | Red Dwarf                         | 3         | 12     |
 | Rick and Morty                    | 4         | 9      |
 | Scrubs                            | 1         | On     |
 | South Park                        | 7 - 27/29 | On     |
 | Ted Lasso                         | 3         | 4      |
-| The Big Bang Theory               | 1         | 12     |
+| The Big Bang Theory               | 4         | 12     |
 | The Jeffersons                    | 2         | 11     |
 | The Sopranos                      | 4         | 6      |
 | Trailer Park Boys                 | 5         | 12     |
