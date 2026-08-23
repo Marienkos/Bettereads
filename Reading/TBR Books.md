@@ -4,8 +4,8 @@
 | -------------------------------------------------------- | -------------------- |
 | 10 Minutes 38 Seconds in This Strange World              | Elif Shafak          |
 | All works                                                | Kurt Vonnegut        |
-| Children of Memory                                       | Adrian Tchaikovsky   |
-| Children of Ruin                                         | Adrian Tchaikovsky   |
+| Cadavere squisito                                        | Agustina Bazterrica  |
+| Children of... (3 remaining)                             | Adrian Tchaikovsky   |
 | Discworld (38 remaining)                                 | Terry Pratchett      |
 | Everyone in this Bank is a Thief                         | Benjamin Stevenson   |
 | Gente indipendente                                       | Halldor Laxness      |
@@ -13,6 +13,7 @@
 | Il viaggio in Occidente                                  | Wu Cheng'en          |
 | Infinite Jest                                            | David Foster Wallace |
 | La Recherche (7 remaining)                               | Marcel Proust        |
+| L'orda del controvento                                   | Alain Damasio        |
 | L'ultimo impero                                          | Brandon Sanderson    |
 | Red Rising                                               | Pierce Brown         |
 | Sarum                                                    | Edward Rutherford    |

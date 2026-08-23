@@ -7,7 +7,6 @@
 | Broad City                |
 | Californication           |
 | Cheers                    |
-| Corner Gas                |
 | Coupling                  |
 | Cuckoo                    |
 | Daria                     |
