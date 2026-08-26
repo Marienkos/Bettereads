@@ -10,7 +10,6 @@
 
 | Title                |
 | -------------------- |
-| My name is Earl      |
 | Parks and Recreation |
 | Scrubs               |
 
@@ -19,6 +18,7 @@
 | Title            |
 | ---------------- |
 | Friends          |
+| My name is Earl  |
 | The IT Crowd     |
 | The Office (USA) |
 

@@ -19,6 +19,7 @@
 | Sarum                                                    | Edward Rutherford    |
 | Storia della musica dall'antichità classica al Novecento | Claudio Casini       |
 | The Pillars of the Earth                                 | Ken Follet           |
+| Horrorstoer                                              | Grady Hendrix        |
 
 # Franck Thilliez
 - 1991

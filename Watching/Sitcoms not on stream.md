@@ -7,7 +7,6 @@
 | Broad City                |
 | Californication           |
 | Cheers                    |
-| Coupling                  |
 | Cuckoo                    |
 | Daria                     |
 | Detectorists              |
