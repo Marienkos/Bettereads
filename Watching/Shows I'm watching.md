@@ -6,7 +6,7 @@
 | Community                         | 1         | 6      |
 | Continuum                         | 1         | 4      |
 | Corner Gas                        | 2         | 6      |
-| Coupling                          | 2         | 4      |
+| Coupling                          | 3         | 4      |
 | Curb Your Enthusiasm              | 3         | 12     |
 | Futurama                          | 2         | 11     |
 | It's Always Sunny in Philadelphia | 18        | On     |
